@@ -11,3 +11,8 @@ text4 = "Maybe he"
 text5 = "is never going"
 text6 = "to come"
 print(text4+text5+text6)
+
+text7 = "she"
+text8 = "dances"
+print(text7+text8)
+
